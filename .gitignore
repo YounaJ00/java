@@ -1,0 +1,12 @@
+# Java compile output
+bin/
+*.class
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Eclipse
+.classpath
+.project
+.settings/
